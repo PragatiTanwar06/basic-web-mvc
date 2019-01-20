@@ -5,7 +5,7 @@
 yahoo!!
 </title>
 <body>
-<form action="login.do" method="post">
+<form action="/spring-mvc/" method="post">
 <input type="text" name="name">
 <input type="password" name="pass">
 <input type="submit" name="button">
